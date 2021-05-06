@@ -1,0 +1,36 @@
+body {
+  overflow-x: hidden;
+}
+
+div {
+  width: 500px;
+  height: 300px;
+}
+
+.black {
+  background-color: black;
+}
+.white {
+  background-color: rgb(223, 223, 223);
+}
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.indigo {
+  background-color: indigo;
+}
+.violet {
+  background-color: violet;
+}
